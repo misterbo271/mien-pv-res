@@ -1,0 +1,27 @@
+{
+  "name": "mien-pv-res",
+  "version": "1.0.1",
+  "description": "\"Nothing\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misterbo271/mien-pv-res.git"
+  },
+  "keywords": [
+    "NPM",
+    "Torturials"
+  ],
+  "author": "MienPV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misterbo271/mien-pv-res/issues"
+  },
+  "dependencies": {
+    "@casl/ability": "^6.3.3",
+    "@casl/react": "^3.1.0"
+  },
+  "homepage": "https://github.com/misterbo271/mien-pv-res#readme"
+}
